@@ -1,6 +1,7 @@
 # FoundryVTT Blades in the Dark character and crew sheets
 
-If you like my work - send thanks to astromortis@gmail.com  :3
+Updating readme so it doesn't look like I'm taking credit for this, since this is just the initial commit of the cloned repo: 
+If you like the creator's work - send thanks to astromortis@gmail.com  :3
 
 Contact Discord: `megastruktur#5704` in case you find any bugs or if you have any suggestions.
 
